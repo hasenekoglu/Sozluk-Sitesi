@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlazorSozluk.Api.Domain/1.0.0": {
+        "dependencies": {
+          "BlazorSozluk.Common": "1.0.0"
+        },
+        "runtime": {
+          "BlazorSozluk.Api.Domain.dll": {}
+        }
+      },
+      "BlazorSozluk.Common/1.0.0": {
+        "runtime": {
+          "BlazorSozluk.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorSozluk.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorSozluk.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

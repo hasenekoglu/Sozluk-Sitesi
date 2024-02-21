@@ -1,0 +1,15 @@
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Api.Domain.deps.json
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Api.Domain.dll
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Api.Domain.pdb
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Common.dll
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net8.0\BlazorSozluk.Common.pdb
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.csproj.CopyComplete
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.dll
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\refint\BlazorSozluk.Api.Domain.dll
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\BlazorSozluk.Api.Domain.pdb
+C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net8.0\ref\BlazorSozluk.Api.Domain.dll
