@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t5LEb/ylwktpvIcl3Vfp5i5PELb7lSxxTvTyXrO5AuJy3DSFQJdmsM7Y+ZNR7gBY2RcjTJmUBOSCOSM/ivkNRA==",
+  "dgSpecHash": "/wpOMQH2J2wSZjHZdE42oz2i95e6XNm83XxE/QOeahLAlZifR/Pa/t5euJ+Gl74VrtHFtgQ4hRzhRvxBDyFrmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmet\\Desktop\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

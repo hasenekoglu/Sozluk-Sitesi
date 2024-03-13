@@ -63,8 +63,9 @@ namespace BlazorSozluk.Infrastructure.Persistence.Context
         private void OnBeforeSave()
         {
             var addedEntites = ChangeTracker.Entries()
-                .Where(i => i.State == EntityState.Added)
-                .Select(i => (BaseEntity)i.Entity);
+                                        .Where(i => i.State == EntityState.Added)
+                                        .Select(i => (BaseEntity)i.Entity);
+
             PrepareAddedEntities(addedEntites);
         }
        

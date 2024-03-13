@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nEfYRDAJUDjOG0f7+cy6+cud8+4F37Jy1iE3ZYdo2D00H+1kdUMwVHhIO06he7pyJf4tanmap2ACiVwz+Vr8g==",
+  "dgSpecHash": "7LIplmwI4cZlEzPvHcGX/Cfmnna7HgrfREhabpRKdfTgOOnTUQ3M1v+cIW3Z7va3g4YZq0jHcXGZ8KmmgagwAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmet\\Desktop\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.VoteService\\BlazorSozluk.Projections.VoteService.csproj",
+  "projectFilePath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\BlazorSozluk\\src\\Projections\\BlazorSozluk.Projections.VoteService\\BlazorSozluk.Projections.VoteService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hj50FjZTpcNC/p+5uwRdHGPZY3tGVl9twkhz6GYgqk5FVZREZ3pykY0nGlyRDDp89YZI53F+Mr2NCaCj8ZvJNw==",
+  "dgSpecHash": "GkkL2Iv6hZx2VI0fBemlD+MYB7thNChVce4b9KZZroOcUsP90yX0aWSHizFBcKiRKGY/pP+rhuzkKV8I3y0P8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmet\\Desktop\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj",
+  "projectFilePath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Application\\BlazorSozluk.Api.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

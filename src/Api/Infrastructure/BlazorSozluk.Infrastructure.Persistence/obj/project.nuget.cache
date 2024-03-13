@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O94RLZaOhae/nr1S4rkeFLgk4/0c4mjwPvsNCaXr10Z+OvMGX7hFgvcVQYvR3o9HPOWHX4exSIUTE2W+H6T2XQ==",
+  "dgSpecHash": "7sqwJAPLuasykFsXXu/AxxBRBnXDYi230u7xFyIgFXSm7lCoUaFH9kHfta3qos4XbMK0vkK6eildy16Aq7caZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmet\\Desktop\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Infrastructure.Persistence\\BlazorSozluk.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

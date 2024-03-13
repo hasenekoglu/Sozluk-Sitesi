@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorSozluk.Infrastructure.Persistence
-build_property.ProjectDir = C:\Users\ahmet\Desktop\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Infrastructure.Persistence\
+build_property.ProjectDir = C:\Users\ahmet\OneDrive\Masaüstü\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Infrastructure.Persistence\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

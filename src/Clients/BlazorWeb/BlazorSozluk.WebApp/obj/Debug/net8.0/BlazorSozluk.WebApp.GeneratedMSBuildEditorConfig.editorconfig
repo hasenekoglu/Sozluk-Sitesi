@@ -13,27 +13,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorSozluk.WebApp
 build_property.RootNamespace = BlazorSozluk.WebApp
-build_property.ProjectDir = C:\Users\ahmet\Desktop\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\
+build_property.ProjectDir = C:\Users\ahmet\OneDrive\Masaüstü\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ahmet\Desktop\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp
+build_property.MSBuildProjectDirectory = C:\Users\ahmet\OneDrive\Masaüstü\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ahmet/Desktop/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/App.razor]
+[C:/Users/ahmet/OneDrive/Masaüstü/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ahmet/Desktop/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Layout/MainLayout.razor]
+[C:/Users/ahmet/OneDrive/Masaüstü/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ahmet/Desktop/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Home.razor]
+[C:/Users/ahmet/OneDrive/Masaüstü/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ahmet/Desktop/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/_Imports.razor]
+[C:/Users/ahmet/OneDrive/Masaüstü/BlazorSozluk/src/Clients/BlazorWeb/BlazorSozluk.WebApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
