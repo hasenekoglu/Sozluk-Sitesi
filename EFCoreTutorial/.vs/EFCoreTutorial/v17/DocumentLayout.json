@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\blazorsozluk\\efcoretutorial\\src\\efcoretutorial.data\\migrations\\20240317205440_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|solutionrelative:src\\efcoretutorial.data\\migrations\\20240317205440_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\blazorsozluk\\efcoretutorial\\src\\efcoretutorial.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|solutionrelative:src\\efcoretutorial.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\blazorsozluk\\efcoretutorial\\src\\efcoretutorial.data\\context\\applicationdbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|solutionrelative:src\\efcoretutorial.data\\context\\applicationdbcontextdesigntimefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\blazorsozluk\\efcoretutorial\\src\\efcoretutorial.data\\migrations\\20240317210144_lenghtchangemig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|solutionrelative:src\\efcoretutorial.data\\migrations\\20240317210144_lenghtchangemig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\blazorsozluk\\efcoretutorial\\src\\efcoretutorial.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|solutionrelative:src\\efcoretutorial.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\blazorsozluk\\efcoretutorial\\src\\efcoretutorial.data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF8751-9D0E-4675-944D-3785D4C9B8B4}|src\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj|solutionrelative:src\\efcoretutorial.data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextDesignTimeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Context\\ApplicationDbContextDesignTimeFactory.cs",
+              "RelativeDocumentMoniker": "src\\EFCoreTutorial.Data\\Context\\ApplicationDbContextDesignTimeFactory.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Context\\ApplicationDbContextDesignTimeFactory.cs",
+              "RelativeToolTip": "src\\EFCoreTutorial.Data\\Context\\ApplicationDbContextDesignTimeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:42:08.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "src\\EFCoreTutorial.Data\\Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "src\\EFCoreTutorial.Data\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAtAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T14:24:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240317205440_initMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Migrations\\20240317205440_initMigration.cs",
+              "RelativeDocumentMoniker": "src\\EFCoreTutorial.Data\\Migrations\\20240317205440_initMigration.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Migrations\\20240317205440_initMigration.cs",
+              "RelativeToolTip": "src\\EFCoreTutorial.Data\\Migrations\\20240317205440_initMigration.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:02:39.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240317210144_lenghtChangeMig.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Migrations\\20240317210144_lenghtChangeMig.cs",
+              "RelativeDocumentMoniker": "src\\EFCoreTutorial.Data\\Migrations\\20240317210144_lenghtChangeMig.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Migrations\\20240317210144_lenghtChangeMig.cs",
+              "RelativeToolTip": "src\\EFCoreTutorial.Data\\Migrations\\20240317210144_lenghtChangeMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:01:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "src\\EFCoreTutorial.Data\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Models\\Book.cs",
+              "RelativeToolTip": "src\\EFCoreTutorial.Data\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:39:22.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "src\\EFCoreTutorial.Data\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\BlazorSozluk\\EFCoreTutorial\\src\\EFCoreTutorial.Data\\Models\\Student.cs",
+              "RelativeToolTip": "src\\EFCoreTutorial.Data\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:25:24.409Z",
               "EditorCaption": ""
             }
           ]
