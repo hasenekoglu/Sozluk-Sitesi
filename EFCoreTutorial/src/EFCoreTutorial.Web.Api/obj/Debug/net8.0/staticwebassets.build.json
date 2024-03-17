@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w3kOwWo5XZZidKS1GRchgdWgbTqqFQZCPmENWYV43iY=",
+  "Source": "EFCoreTutorial.Web.Api",
+  "BasePath": "_content/EFCoreTutorial.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

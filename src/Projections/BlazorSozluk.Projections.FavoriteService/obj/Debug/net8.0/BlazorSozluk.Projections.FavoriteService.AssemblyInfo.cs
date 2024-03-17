@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSozluk.Projections.FavoriteService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc8b96b060587a7ded5b3b49b46307ba97658aa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0741478a864e70b0197f6535d35df7f82d86fc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSozluk.Projections.FavoriteService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSozluk.Projections.FavoriteService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
